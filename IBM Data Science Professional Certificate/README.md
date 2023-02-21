@@ -17,16 +17,14 @@ This repository contains documentation and resources used to complete the certif
 
 <br>
 
-- [01. What is Data Science?](https://github.com/realgauravmehta/Learning/tree/main/01.%20What%20is%20Data%20Science%3F)
-- [02. Tools for Data Science](https://github.com/realgauravmehta/Learning/tree/main/02.%20Tools%20for%20Data%20Science)
-- [03. Data Science Methodology](https://github.com/realgauravmehta/Learning/tree/main/03.%20Data%20Science%20Methodology)
-- [04. Python for Data Science, AI & Development](https://github.com/realgauravmehta/Learning/tree/main/04.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
-- [05. Python Project for Data Science](https://github.com/realgauravmehta/Learning/tree/main/05.%20Python%20Project%20for%20Data%20Science)
-- [06. Databases and SQL for Data Science with Python](https://github.com/realgauravmehta/Learning/tree/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/)
-- [07. Data Analysis with Python](https://github.com/realgauravmehta/Learning/tree/main/07.%20Data%20Analysis%20with%20Python)
-- [08. Data Visualization with Python](https://github.com/realgauravmehta/Learning/tree/main/08.%20Data%20Visualization%20with%20Python)
-- [09. Machine Learning with Python](https://github.com/realgauravmehta/Learning/tree/main/09.%20Machine%20Learning%20with%20Python/)
-- [10. Applied Data Science Capstone](https://github.com/realgauravmehta/Learning/tree/main/10.%20Applied%20Data%20Science%20Capstone/)
+- [01. Extracting and Visualizing Stock Data](https://github.com/realgauravmehta/Portfolio-Projects/tree/main/IBM%20Data%20Science%20Professional%20Certificate/Extracting%20and%20Visualizing%20Stock%20Data)
+- [02. Chicago Census, Crime, and School Data Analysis](https://github.com/realgauravmehta/Portfolio-Projects/tree/main/IBM%20Data%20Science%20Professional%20Certificate/Chicago%20Census%2C%20Crime%2C%20and%20School%20Data%20Analysis)
+- [03. Housing Price Predictions](https://github.com/realgauravmehta/Portfolio-Projects/tree/main/IBM%20Data%20Science%20Professional%20Certificate/Housing%20Price%20Predictions)
+- [04. US Domestic Airline Flights Performance Dashboard](https://github.com/realgauravmehta/Portfolio-Projects/tree/main/IBM%20Data%20Science%20Professional%20Certificate/US%20Domestic%20Airline%20Flights%20Performance%20Dashboard)
+- [05. Finding the Best Classifier Model](https://github.com/realgauravmehta/Portfolio-Projects/tree/main/IBM%20Data%20Science%20Professional%20Certificate/Finding%20the%20Best%20Classifier%20Model)
+- [06. Space X Falcon 9 Landing Project - Capstone Project](https://github.com/realgauravmehta/Portfolio-Projects/tree/main/IBM%20Data%20Science%20Professional%20Certificate/Space%20X%20Falcon%209%20Landing%20Project/)
+
+<br>
 
 ## Libraries
 The following Python libraries were used throughout the certification: 
