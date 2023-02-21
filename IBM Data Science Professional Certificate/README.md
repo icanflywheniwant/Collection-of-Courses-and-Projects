@@ -8,7 +8,8 @@ The <a href="https://www.coursera.org/professional-certificates/ibm-data-science
 
 This repository contains documentation and resources used to complete the certification, relevant notes and other code snippets, and proof of certification for each course.
 
-## Courses 
+
+## Projects 
 
 <br>
 
@@ -36,9 +37,8 @@ The following Python libraries were used throughout the certification:
 - Plotly
 - Folium
 
-# Tools Used
+## Tools Used
 The following tools were used to complete this certification: 
-
 <br>
 
 - Python
@@ -46,6 +46,5 @@ The following tools were used to complete this certification:
 - GitHub
 - IBM Watson 
 - IBM Db2
-- IBM Cloud Pak
 - Visual Studio Code
 - SQLite
