@@ -2,4 +2,4 @@
 
 ## About
 
-There are 2 projects completed here involving Databases and SQL for Data Analysis with Python. Both Projects are related to the data obtained from the city of Chicago's Data Portal. 
+The project completed here is the Peer Assignment for the Course Databases and SQL for Data Analysis with Python. The Project is related to the data obtained from the city of Chicago's Data Portal. 
