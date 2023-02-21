@@ -1,8 +1,6 @@
-# Data Visualization with Python
+# US Domestic Airline Flights Performance Dashboard
 
 ## About
-This is the eight of the ten Courses in the certification. 
+This project is the peer review project from the eight course of the Certification. 
 
-This course teaches various Data Visualization tools and techniques. This course makes use of several Python data visualization libraries such as Matplotlib, Seaborn, Plotly, and Folium, to explore Canadian immigration data. It also covers dashboard creation using Plotly Dash, with a final assignment combining the skills learned to analyse and report US domestic airline flights performance in a dashboard.
-
-The certificates earned and the work I performed for the completion of this course are uploaded here. 
+The Project makes use of several Python data visualization libraries such as Matplotlib, Seaborn, Plotly, and Folium. It also covers dashboard creation using Plotly Dash, with this final assignment combining the skills learned during this course and the previous modules to analyse and report on US domestic airline flights performance in a dashboard.
