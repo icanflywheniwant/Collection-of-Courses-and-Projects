@@ -1,9 +1,8 @@
-# Data Analysis with Python
+# Housing Price Predictions
 
 ## About
-This is the seventh of the ten Courses in the certification. 
+The topics covered while making the final peer review project for the course on Data Analysis with Python:
 
-Topics covered include:  
 - collecting and importing data 
 - cleaning, preparing & formatting data 
 - data frame manipulation 
@@ -11,5 +10,3 @@ Topics covered include:
 - building machine learning regression models 
 - model refinement 
 - creating data pipelines 
-
-The certificates earned and the work I performed for the completion of this course are uploaded here. 
