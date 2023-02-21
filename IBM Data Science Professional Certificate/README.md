@@ -1,7 +1,7 @@
 # IBM Data Science Professional Certification
 
 
-![Coursera Certificate - IBM Data Science Professional-1](https://user-images.githubusercontent.com/60063158/220248452-cc3a0d00-d896-4eb5-9c0b-315514df5151.png)
+<a href="https://coursera.org/verify/professional-cert/LDGSMN6KSPRA"> ![Coursera Certificate - IBM Data Science Professional-1](https://user-images.githubusercontent.com/60063158/220248452-cc3a0d00-d896-4eb5-9c0b-315514df5151.png) </a>
 
 
 ## About
