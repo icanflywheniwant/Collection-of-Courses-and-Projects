@@ -1,5 +1,8 @@
 # NLP: Twitter Sentiment Analysis
 
+![Coursera KEQAASUVEHD3](https://user-images.githubusercontent.com/60063158/221114624-32417a0c-a27e-4bbf-9919-bdd998f4cb92.png)
+
+
 
 ## The following tasks were performed by me to perform a Twitter Sentiment Analysis with NLP:
 
