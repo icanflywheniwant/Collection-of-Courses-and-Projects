@@ -1,5 +1,7 @@
 # Exploratory Data Analysis With Python and Pandas
 
+![image](https://user-images.githubusercontent.com/60063158/221130994-b5bfb0e5-cdad-420f-abc5-90dbd9a0a78b.png)
+
 
 ## The following tasks were performed by me to perform a EDA with Pandas:
 
