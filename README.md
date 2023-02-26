@@ -1,4 +1,5 @@
-# Guided Projects
+# Collection of Projects
 
 
-## This repo contains all the Portfolio Projects undertaken by me. 
+## This repo contains a list of Projects, both Guided and Unguided. 
+
