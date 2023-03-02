@@ -1,13 +1,13 @@
 # Climate Geospatial Analysis on Python with Xarray
 
-In this project, I will load, visualize, manipulate and perform both simple and grouped operations over geospatial multidimensional data through Xarray and Python.
 
-   $$
-    Load and getting familiar with NetCDF datasets
-    Select and filter data through coordinates
-    Visualize multidimensional and geospatial variables
-    Apply simple operations over multidimensional data
-    Apply grouped operations over multidimensional data
-    Merge and concatenate datasets
-    Interact with Pandas and export datasets
-   $$
+## Links for future reference
+
+https://drive.proton.me/urls/JCVN4V9SF8#GjU0EAlYwJpk
+
+
+## Learning Objectives
+
+- By the end of this project, you will be able to load, visualize, manipulate and perform both simple and grouped operations over geospatial multidimensional data through Xarray and Python.  
+- We'll explore an dataset containing temperature, vegetation density and total precipitation over the Brazilian Amazon for the 1979-2019 period while the concepts are developed. 
+- This will enable the learner to handle and extract knowledge from complex datasets such as the ones from satellite and climate re-analysis. observations.

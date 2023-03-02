@@ -3,6 +3,11 @@
 ![image](https://user-images.githubusercontent.com/60063158/221240893-24877589-0aed-49dd-9367-ae3e169fa9d5.png)
 
 
+## Links for future Reference
+https://drive.proton.me/urls/M3T4NAAPWR#jZRa3fYoyG7C 
+
+## Learning Objectives
+
 In this project, I have trained a Bidirectional Neural Network and LSTM based deep learning model to detect fake news from a given news corpus. This project could be practically used by media companies to automatically predict whether the circulating news is fake or not. The process could be done automatically without having humans manually review thousands of news-related articles.
 
 This project makes use of TensorFlow.
