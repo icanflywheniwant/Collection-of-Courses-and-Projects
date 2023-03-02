@@ -1,9 +1,7 @@
 # Collection of Projects
 
 
-## This repo contains a list of Projects, both Guided and Unguided that were completed by me 
-<a href = "www.gauravmehta.com"> (Gaurav Mehta)
-</a> .
+## This repo contains a list of Projects, both Guided and Unguided that were completed by me <a href = "www.gauravmehta.com"> (Gaurav Mehta) </a> .
 <br>
 
 These Projects relate to Computer Science Concepts, Data Science, Machine Learning, Artificial Intelligence, Natural Language Processing and Finance. 
