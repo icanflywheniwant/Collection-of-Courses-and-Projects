@@ -1,3 +1,13 @@
-# Classify Signals from Outer Space with Keras
+# Climate Geospatial Analysis on Python with Xarray
 
-I will in this project be building and training a convolutional neural network (CNN) in Keras from scratch to classify 2D spectograms of deep space radio signals.
+In this project, I will load, visualize, manipulate and perform both simple and grouped operations over geospatial multidimensional data through Xarray and Python.
+
+   $$
+    Load and getting familiar with NetCDF datasets
+    Select and filter data through coordinates
+    Visualize multidimensional and geospatial variables
+    Apply simple operations over multidimensional data
+    Apply grouped operations over multidimensional data
+    Merge and concatenate datasets
+    Interact with Pandas and export datasets
+   $$
