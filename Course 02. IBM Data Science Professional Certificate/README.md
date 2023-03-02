@@ -42,11 +42,11 @@ The following tools were used to complete this certification:
 
 <br>
 
-- [01. Extracting and Visualizing Stock Data]()
-- [02. Chicago Census, Crime, and School Data Analysis]()
-- [03. Housing Price Predictions]()
-- [04. US Domestic Airline Flights Performance Dashboard]()
-- [05. Finding the Best Classifier Model]()
-- [06. Space X Falcon 9 Landing Project - Capstone Project]()
+- [01. Extracting and Visualizing Stock Data](https://github.com/realgauravmehta/Collection-of-Projects/blob/0507bc3eebd32ad685650cda3960db0d7c7b626c/Course%2002.%20IBM%20Data%20Science%20Professional%20Certificate/01.%20Extracting%20and%20Visualizing%20Stock%20Data/Extracting%20and%20Visualizing%20Stock%20Data.ipynb)
+- [02. Chicago Census, Crime, and School Data Analysis](https://github.com/realgauravmehta/Collection-of-Projects/blob/0507bc3eebd32ad685650cda3960db0d7c7b626c/Course%2002.%20IBM%20Data%20Science%20Professional%20Certificate/02.%20Chicago%20Census%2C%20Crime%2C%20and%20School%20Data%20Analysis/Chicago%20Census%2C%20Crime%2C%20and%20School%20Data%20Analysis%20using%20SQL.ipynb)
+- [03. Housing Price Predictions](https://github.com/realgauravmehta/Collection-of-Projects/blob/0507bc3eebd32ad685650cda3960db0d7c7b626c/Course%2002.%20IBM%20Data%20Science%20Professional%20Certificate/03.%20Housing%20Price%20Predictions/House%20Price%20Predictions.ipynb)
+- [04. US Domestic Airline Flights Performance Dashboard](https://github.com/realgauravmehta/Collection-of-Projects/blob/0507bc3eebd32ad685650cda3960db0d7c7b626c/Course%2002.%20IBM%20Data%20Science%20Professional%20Certificate/04.%20US%20Domestic%20Airline%20Flights%20Performance%20Dashboard/US%20Domestic%20Airline%20Flights%20Performance%20Dashboard.ipynb)
+- [05. Finding the Best Classifier Model](https://github.com/realgauravmehta/Collection-of-Projects/blob/0507bc3eebd32ad685650cda3960db0d7c7b626c/Course%2002.%20IBM%20Data%20Science%20Professional%20Certificate/05.%20Finding%20the%20Best%20Classifier%20Model/Finding%20the%20Best%20Classifier%20Model.ipynb)
+- [06. Space X Falcon 9 Landing Project - Capstone Project](https://github.com/realgauravmehta/Collection-of-Projects/tree/0507bc3eebd32ad685650cda3960db0d7c7b626c/Course%2002.%20IBM%20Data%20Science%20Professional%20Certificate/06.%20Space%20X%20Falcon%209%20Landing%20Project%20-%20Capstone%20Project)
 
 <br>
